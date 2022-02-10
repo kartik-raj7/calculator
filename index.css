@@ -34,6 +34,7 @@ body{
 .output{
 grid-column: 1 / -1;
 background-color: rgba(29,57,78,.75);
+text-align: right;
 display: flex;
 display: flex-end;
 justify-content: space-around;
